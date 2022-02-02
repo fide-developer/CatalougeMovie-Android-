@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF8E1</color>
+    <color name="colorPrimaryDark">#757575</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorNavigationSelected">#F57F17</color>
+    <color name="judul">#212121</color>
+    <color name="subtext">#757575</color>
+</resources>

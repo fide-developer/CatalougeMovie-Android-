@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">submission4cataloguemovie</string>
+    <string name="menu_nowPlaying">Sedang Tayang</string>
+    <string name="menu_upcomming">Akan Datang</string>
+    <string name="menu_favorite">Favorit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_upComming">Akan Datang</string>
+    <string name="action_search">Film Favorit</string>
+    <string name="action_nowplaying">Sedang Tayang</string>
+    <string name="menu_search">Cari</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="search_hint">Cari Film</string>
+    <string name="lang">id</string>
+    <string name="overview">Tinjauan</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="Genre">Genre</string>
+    <string name="string_language">Bahasa</string>
+    <string name="film_duration">Durasi</string>
+    <string name="rating">Rate</string>
+    <string name="titleGenre">Kategori</string>
+    <string name="titleLang">Bahasa</string>
+    <string name="titleOverview">Tinjauan</string>
+    <string name="titileRate">Rate</string>
+    <string name="titleRelease">Tanggal Rilis</string>
+    <string name="titleRuntime">Durasi</string>
+
+    <string name="titleReminder">Notifikasi Katalog Film</string>
+    <string name="messageReminder">Hey! Kemana aja? Ayo buka aplikasi katalog film sekarang!</string>
+    <string name="menu_changeLang">Ubah Bahasa</string>
+    <string name="menu_setNotification">Pengatura Notifikasi</string>
+
+    <string name="title_activity_notification_setting">Pengaturan</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dailyreminder">daily_reminder</string>
+    <string name="dailyremindertitle">Notifikasi Pengingat Harian</string>
+    <string name="dailyremindersummary">Mengingatkan untuk kembali menggunakan aplikasi</string>
+    <string name="releasereminder">releasereminder</string>
+    <string name="releaseremindertitle">Notifikasi Pengingat Tayangan Film</string>
+    <string name="releaseremindersummary">Notifikasi yang menampilkan film yang tayang setiap hari</string>
+    <string name="notification_title">Catalogue Movie</string>
+    <string name="notification_text">Hey! Kemana aja? Ayo buka Catalogue Movies. Banyak film seru loh...</string>
+    <string name="notification_subtext">Catalogue Movie - Sekarang</string>
+</resources>

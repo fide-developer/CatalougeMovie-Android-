@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/judul</item>
+        <item name="actionBarStyle">@style/actionBar</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TextContent" parent="@style/TextAppearance.AppCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextContent.Title">
+        <item name="android:maxLength">30</item>
+        <item name="android:textColor">@color/judul</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+    <style name="TextContent.SubCard">
+        <item name="android:maxLength">150</item>
+        <item name="android:textColor">@color/subtext</item>
+    </style>
+
+    <style name="actionBar" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="titleTextStyle">@style/MyTitleColor</item>
+        <item name="android:textColorPrimary">@color/judul</item>
+    </style>
+
+    <style name="MyTitleColor" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/judul</item>
+    </style>
+</resources>
